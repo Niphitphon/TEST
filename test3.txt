@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Local Edit
+=======
+Remote Edit
+>>>>>>> 9d674203e988576412fd9e9467ddce61729756d3
